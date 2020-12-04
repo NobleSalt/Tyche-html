@@ -1,4 +1,6 @@
-# Tyche-html - Just practicing with a graphical prototype with
+# Tyche-html
+
+Just practicing with a graphical prototype with
 
 - html
 - css
